@@ -301,3 +301,16 @@
 [INFO ] 2026-06-30 20:15:37 [main] (Swag_Lab_Add_Products.java:99) - Click on Continue Button
 [INFO ] 2026-06-30 20:15:38 [main] (Swag_Lab_Add_Products.java:106) - Click on Finish Button
 [INFO ] 2026-06-30 20:15:39 [main] (Swag_Lab_Add_Products.java:113) - Click on Home Button
+[INFO ] 2026-06-30 20:22:33 [main] (Swag_Lab_Login_StepDef.java:25) - Enter the User Name
+[INFO ] 2026-06-30 20:22:34 [main] (Swag_Lab_Login_StepDef.java:29) - Enter the User Name
+[INFO ] 2026-06-30 20:22:34 [main] (Swag_Lab_Login_StepDef.java:37) - Enter the User Name
+[INFO ] 2026-06-30 20:22:39 [main] (Swag_Lab_Login_StepDef.java:25) - Enter the User Name
+[INFO ] 2026-06-30 20:22:39 [main] (Swag_Lab_Login_StepDef.java:29) - Enter the User Name
+[INFO ] 2026-06-30 20:22:40 [main] (Swag_Lab_Login_StepDef.java:37) - Enter the User Name
+[INFO ] 2026-06-30 20:22:41 [main] (Swag_Lab_Add_Products.java:39) - Click on Add to product
+[INFO ] 2026-06-30 20:22:41 [main] (Swag_Lab_Add_Products.java:46) - Click on Cart
+[INFO ] 2026-06-30 20:22:42 [main] (Swag_Lab_Add_Products.java:55) - Click on Cart
+[INFO ] 2026-06-30 20:22:45 [main] (Swag_Lab_Add_Products.java:79) - Enter Customer Details
+[INFO ] 2026-06-30 20:22:46 [main] (Swag_Lab_Add_Products.java:99) - Click on Continue Button
+[INFO ] 2026-06-30 20:22:46 [main] (Swag_Lab_Add_Products.java:106) - Click on Finish Button
+[INFO ] 2026-06-30 20:22:47 [main] (Swag_Lab_Add_Products.java:113) - Click on Home Button
